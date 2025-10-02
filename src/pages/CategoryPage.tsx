@@ -77,7 +77,7 @@ const categoryData = {
       title: "Tutorial para evitar anuncios",
       description: "Tutorial para evitar molestos anuncios al momento de la descargsa de su addon fav..",
       imageUrl: addonBloquearAnuncios,
-      downloadUrl: "https://lnbz.la/REalismCraft",
+      downloadUrl: "https://mega.nz/file/XMxQEQhI#6Ueu7eAYmvatZnMr0rQ-qoMcjRmJfFiLNoiWQNru58U",
       category: "addon" as const,
       rating: 4.8,
       downloads: 50000,
