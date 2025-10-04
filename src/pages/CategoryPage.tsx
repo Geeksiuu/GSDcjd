@@ -77,7 +77,7 @@ const categoryData = {
       title: "Tutorial para evitar anuncios",
       description: "Tutorial para evitar molestos anuncios al momento de la descargsa de su addon fav..",
       imageUrl: addonBloquearAnuncios,
-      downloadUrl: "https://youtube.com/shorts/SWutBBsLf2k?si=n2CIGHVCHS9qgk6p",
+      downloadUrl: "https://youtu.be/BjoCDi8sWus?feature=shared",
       category: "addon" as const,
       rating: 4.8,
       downloads: 50000,
