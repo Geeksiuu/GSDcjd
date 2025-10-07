@@ -799,7 +799,7 @@ export const moreAddons = [
     title: "FOOD EXPANSION HUGE UPDATE",
     description: "Un addon con realismo extremo",
     imageUrl: addonFoodExpansionUpdate,
-    downloadUrl: "https://lnbz.la/AlienDimen",
+    downloadUrl: "https://lnbz.la/FoodExp",
     category: "addon" as const,
     rating: 4.9,
     downloads: 60000,
