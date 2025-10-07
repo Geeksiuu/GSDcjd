@@ -66,6 +66,7 @@ import addonBiomecraft from "@/assets/addon-biomecraft.jpg";
 import addonCreakingExpansion from "@/assets/addon-creaking-expansion.jpg";
 import addonDragonfire from "@/assets/addon-dragonfire.jpg";
 import addonAlienDimension from "@/assets/addon-alien-dimension.jpg";
+import addonFoodExpansionUpdate from "@/assets/addon-food-expansion.jpg";
 
 export const moreAddons = [
   {
@@ -793,7 +794,17 @@ export const moreAddons = [
     downloads: 60000,
     author: "Ultra Devs",
     updatedAt: "Hace 2 días"
+  },
+  {
+    title: "FOOD EXPANSION HUGE UPDATE",
+    description: "Un addon con realismo extremo",
+    imageUrl: addonFoodExpansionUpdate,
+    downloadUrl: "https://lnbz.la/AlienDimen",
+    category: "addon" as const,
+    rating: 4.9,
+    downloads: 60000,
+    author: "Ultra Devs",
+    updatedAt: "Hace 2 días"
   }
-
 
 ];
