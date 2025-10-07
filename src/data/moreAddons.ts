@@ -80,10 +80,10 @@ export const moreAddons = [
     updatedAt: "Hace 4 días"
   },
   {
-    title: "ACTIONS & STUFF 1.5.1",
+    title: "ACTIONS & STUFF 1.6",
     description: "Un addon con realismo extremo",
     imageUrl: packActionStuff,
-    downloadUrl: "https://lnbz.la/ActionStuff",
+    downloadUrl: "https://lnbz.la/Action1pnt6",
     category: "addon" as const,
     rating: 4.9,
     downloads: 60000,
