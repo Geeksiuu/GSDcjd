@@ -52,10 +52,10 @@ const Index = () => {
       updatedAt: "Hace 3 días"
     },
     {
-      title: "Actions & Stuff 1.5.1",
+      title: "Actions & Stuff 1.6",
       description: "Agrega nuevas animaciones y acciones épicas al juego",
       imageUrl: packActionsStuff,
-      downloadUrl: "https://lnbz.la/ActionStuff",
+      downloadUrl: "https://lnbz.la/Action1pnt6",
       category: "texture" as const,
       rating: 4.7,
       downloads: 35000,
