@@ -86,7 +86,7 @@ const categoryData = {
       buttonText: "Ver Tutorial"
     },
     {
-      title: "REALISMCRAFT 2.0.2",
+      title: "REALISMCRAFT 2.1",
       description: "Convierte a los zombies en más inteligentes con IA avanzada",
       imageUrl: addonRealismCraft,
       downloadUrl: "https://lnbz.la/REalismCraft",
